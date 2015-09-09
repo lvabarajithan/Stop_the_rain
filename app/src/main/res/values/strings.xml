@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Stop the rain!</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="weather_heading">Weather</string>
+    <string name="error_weather_txt">data unavailable</string>
+    <string name="default_degree">0</string>
+    <string name="status_heading">Status</string>
+    <string name="msg_heading">Message</string>
+    <string name="no_msg_txt">No message</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_about">About</string>
+    <string name="app_version">Version 1.0</string>
+    <string name="app_developer">Abarajithan Lv</string>
+    <string name="author_txt">Developer</string>
+    <string name="false_text">False</string>
+    <string name="true_text">True</string>
+    <string-array name="quizes">
+        <item>When I am open I am U-shaped but when I am closed I am V-shaped. Who am I?</item>
+        <item>Finish the lyrics to this children\'s ditty about rain.\n\"Rain, Rain, go away, come again _____\"</item>
+        <item>I\'m slow, light rain and go on for hours. Who am I?</item>
+        <item>What instrument is used to measure the rainfall?\n1.Rain gauge\n2.Rainmeter\n3.Rain Stick\n4.Rainscope\nEnter your choice.</item>
+        <item>At what temperature is Centigrade equal to Fahrenheit?\nNote : Never try to Google XD</item>
+    </string-array>
+    <string-array name="answers">
+        <item>umbrella</item>
+        <item>another day</item>
+        <item>drizzle</item>
+        <item>1</item>
+        <item>-40 degrees</item>
+    </string-array>
+    <string name="quiz_title">Quiz</string>
+    <string name="stop_text">STOP THE RAIN!</string>
+    <string name="action_profile">My Profile</string>
+    <string name="action_edit_profile">Edit profile</string>
+    <string name="action_edit_picture">Edit your picture : </string>
+    <string name="action_edit_name">Edit your name :</string>
+    <string name="unknown_name">unknown</string>
+    <string name="enter_name">Enter your name to get started.</string>
+</resources>

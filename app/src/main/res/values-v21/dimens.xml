@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="app_bar_paddingTop">24dp</dimen>
+    <dimen name="card_padding_top">100dp</dimen>
+    <dimen name="fab_padding_bottom">62dp</dimen>
+    <dimen name="about_head_padding">80dp</dimen>
+</resources>
