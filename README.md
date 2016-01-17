@@ -1,7 +1,7 @@
 # Stop_the_rain
 Educational android application
 
-Copyright 2015 Abarajithan Lv
+Copyright 2016 Abarajithan Lv
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
